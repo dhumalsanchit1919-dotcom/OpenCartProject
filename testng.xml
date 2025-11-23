@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite >
+<suite name="Suite" thread-count="5" parallel="test">
+
+  <test  name="Test1">
+  <parameter  name="browser"  value ="edge"/>
+    <classes>
+      <class name="testCases.TC_001_Verify_Acc_Status"/>
+    </classes>
+  </test> <!-- Test -->
+  
+    <test  name="Test2">
+  <parameter  name="browser"  value ="chrome"/>
+    <classes>
+      <class name="testCases.TC_001_Verify_Acc_Status"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+</suite> <!-- Suite -->

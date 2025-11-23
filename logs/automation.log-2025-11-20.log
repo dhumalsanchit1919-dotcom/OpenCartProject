@@ -1,0 +1,47 @@
+22:57:09.441 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 2222
+22:57:11.580 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 3333
+22:57:11.628 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is Completed
+21:43:49.626 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 3333
+21:43:49.674 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is Completed
+21:54:58.888 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is started
+21:55:01.955 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 111
+21:55:05.267 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 2222
+21:55:07.048 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 3333
+21:55:07.089 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is Completed
+21:56:10.755 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is started
+21:56:13.453 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 111
+21:56:16.781 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 2222
+21:56:18.332 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 3333
+21:56:18.362 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is Completed
+22:37:20.563 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------------------Execution Started------------------
+22:37:20.590 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 1st POM class-------
+22:37:21.413 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 2nd POM class-------
+22:37:22.850 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 3rd POM class-------
+22:41:42.982 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------------------Execution Started------------------
+22:41:43.010 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 1st POM class-------
+22:41:44.083 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 2nd POM class-------
+22:41:47.216 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 3rd POM class-------
+22:49:16.964 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is started
+22:49:18.685 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 111
+22:49:22.053 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 2222
+22:49:23.299 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 3333
+22:49:23.329 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is Completed
+22:54:35.730 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------------------Execution Started------------------
+22:54:35.777 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 1st POM class-------
+22:54:36.950 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 2nd POM class-------
+22:54:38.911 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 3rd POM class-------
+22:56:53.347 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------------------Execution Started------------------
+22:56:53.368 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 1st POM class-------
+22:56:54.219 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 2nd POM class-------
+22:56:56.140 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 3rd POM class-------
+22:58:28.203 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is started
+22:58:32.281 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 111
+22:58:35.602 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 2222
+22:58:36.919 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 3333
+22:58:36.954 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is Completed
+22:58:49.931 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------------------Execution Started------------------
+22:58:49.933 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 1st POM class-------
+22:58:50.993 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 2nd POM class-------
+22:58:53.460 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 3rd POM class-------
+23:03:03.519 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------------------Execution Started------------------
+23:03:03.546 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 1st POM class-------

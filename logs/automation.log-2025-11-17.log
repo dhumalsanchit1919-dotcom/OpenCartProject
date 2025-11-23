@@ -1,0 +1,53 @@
+21:08:42.077 [main] INFO  testCases.TC_001_Verify_Acc_Status - Execution Start
+21:08:48.743 [main] INFO  testCases.TC_001_Verify_Acc_Status - Execution Click
+21:08:55.166 [main] INFO  testCases.TC_001_Verify_Acc_Status - Execution complete only validation
+21:08:55.232 [main] INFO  testCases.TC_001_Verify_Acc_Status - Finish
+21:11:59.024 [main] INFO  testCases.TC_001_Verify_Acc_Status - Execution Start
+21:11:59.134 [main] ERROR testCases.TC_001_Verify_Acc_Status - Fail
+21:11:59.134 [main] DEBUG testCases.TC_001_Verify_Acc_Status - Fail!!!!!
+21:57:11.027 [main] INFO  testCases.TC_001_Verify_Acc_Status - Execution Start
+21:57:11.068 [main] ERROR testCases.TC_001_Verify_Acc_Status - Fail
+21:57:11.068 [main] DEBUG testCases.TC_001_Verify_Acc_Status - Fail!!!!!
+22:02:47.175 [main] INFO  testCases.TC_001_Verify_Acc_Status - Execution Start
+22:02:47.203 [main] ERROR testCases.TC_001_Verify_Acc_Status - Fail
+22:02:47.203 [main] DEBUG testCases.TC_001_Verify_Acc_Status - Fail!!!!!
+22:31:38.752 [main] INFO  testCases.TC_001_Verify_Acc_Status - Execution Start
+22:31:38.849 [main] ERROR testCases.TC_001_Verify_Acc_Status - Fail
+22:31:38.849 [main] DEBUG testCases.TC_001_Verify_Acc_Status - Fail!!!!!
+11:41:57.283 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------------------Execution Started------------------
+11:41:57.362 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 1st POM class-------
+11:43:30.144 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------------------Execution Started------------------
+11:43:30.193 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 1st POM class-------
+11:43:31.018 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 2nd POM class-------
+11:43:34.409 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 3rd POM class-------
+11:55:41.888 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------------------Execution Started------------------
+11:55:41.982 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 1st POM class-------
+11:55:43.616 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 2nd POM class-------
+11:55:46.068 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 3rd POM class-------
+12:01:28.328 [main] INFO  testCases.TC_001_Verify_Acc_Status - Execution Start
+12:01:30.007 [main] INFO  testCases.TC_001_Verify_Acc_Status - Execution Click
+12:01:35.261 [main] INFO  testCases.TC_001_Verify_Acc_Status - Execution complete only validation
+12:01:35.316 [main] INFO  testCases.TC_001_Verify_Acc_Status - Finish
+12:02:48.754 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------------------Execution Started------------------
+12:02:48.770 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 1st POM class-------
+12:02:49.157 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 2nd POM class-------
+12:02:50.330 [main] INFO  testCases.TC_002_Verify_My_account_Login - ------Execution Started for 3rd POM class-------
+22:28:51.030 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is started
+22:28:53.616 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 111
+22:28:56.875 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 2222
+22:28:58.991 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 3333
+22:28:59.018 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is Completed
+22:36:03.742 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is started
+22:36:05.875 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 111
+22:36:09.298 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 2222
+22:36:13.248 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 3333
+22:36:13.294 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is Completed
+22:42:49.708 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is started
+22:46:19.737 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is started
+22:48:54.191 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is started
+22:50:56.118 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is started
+22:51:16.698 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 111
+22:51:20.450 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 2222
+22:51:23.392 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 3333
+22:56:56.037 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is started
+22:57:06.147 [main] INFO  testCases.TC_001_Verify_Register_login_Practice - Execution is 111
